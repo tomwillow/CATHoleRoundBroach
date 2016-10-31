@@ -1,11 +1,15 @@
-#CATHoleRoundBroach
-#Ô²¿×À­µ¶ÈıÎ¬²ÎÊı»¯Éè¼ÆÏµÍ³
+# CATHoleRoundBroach
+# åœ†å­”æ‹‰åˆ€ä¸‰ç»´å‚æ•°åŒ–è®¾è®¡ç³»ç»Ÿ
 
 Author: Tom Willow 2013.06 
 Compile environment: VB6.0
 
 This program is used to design the Round Hole Broach and link to CATIA V5(tested on CATIA V5R16, have not tested on other version) for building a 3D parametric model of the broach. 
-±¾³ÌĞòÓÃÓÚÉè¼ÆÔ²¿×À­µ¶£¬²¢ÇÒ¿ÉÒÔÁ´½Óµ½CATIA V5£¨ÔÚCATIA V5R16ÏÂ²âÊÔÍ¨¹ı£¬ÆäÓà°æ±¾Î´²âÊÔ£©Éú³ÉÈıÎ¬²ÎÊı»¯À­µ¶Ä£ĞÍ¡£
+æœ¬ç¨‹åºç”¨äºè®¾è®¡åœ†å­”æ‹‰åˆ€ï¼Œå¹¶ä¸”å¯ä»¥é“¾æ¥åˆ°CATIA V5ï¼ˆåœ¨CATIA V5R16ä¸‹æµ‹è¯•é€šè¿‡ï¼Œå…¶ä½™ç‰ˆæœ¬æœªæµ‹è¯•ï¼‰ç”Ÿæˆä¸‰ç»´å‚æ•°åŒ–æ‹‰åˆ€æ¨¡å‹ã€‚
 
 This program is the main content of my bacholar's thesis. 
-±¾³ÌĞòÊÇÎÒ±¾¿Æ±ÏÒµÉè¼ÆµÄÖ÷ÒªÄÚÈİ¡£
+æœ¬ç¨‹åºæ˜¯æˆ‘æœ¬ç§‘æ¯•ä¸šè®¾è®¡çš„ä¸»è¦å†…å®¹ã€‚
+
+![](https://github.com/tomwillow/CATHoleRoundBroach/blob/master/%E5%8F%91%E5%B8%83%E7%89%88%E6%9C%AC/snap.jpg)
+
+![](https://github.com/tomwillow/CATHoleRoundBroach/blob/master/%E5%8F%91%E5%B8%83%E7%89%88%E6%9C%AC/snap6.jpg)
