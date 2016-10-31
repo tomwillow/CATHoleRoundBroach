@@ -1,0 +1,10 @@
+Form1 = 193, 145, 1087, 701, C, -140, -6, 1312, 813, C
+Table_Module = 60, 120, 1109, 583, 
+CATBroach_Module = 250, 27, 1007, 571, C
+CATIALib_Module = 118, 224, 1037, 747, C
+Math_Module = 252, 23, 1171, 564, 
+Form2 = 51, 165, 1062, 632, , 105, 142, 1024, 683, C
+frmAbout = 206, 219, 1130, 760, , 50, 70, 974, 611, C
+BroachFile_Module = 213, 35, 944, 722, 
+modXP = 208, 142, 1132, 689, C
+ListViewFace_Module = 144, 57, 1068, 598, C
